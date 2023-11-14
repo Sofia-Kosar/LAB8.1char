@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  UnitTest8.1char.cpp
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(11,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(17,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(22,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(40,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(46,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(53,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(59,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(66,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\programyvanya\LAB8.1char\LAB8.1char\LAB8.1char.cpp(72,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+     Creating library D:\programyvanya\LAB8.1char\x64\Debug\UnitTest8.1char.lib and object D:\programyvanya\LAB8.1char\x64\Debug\UnitTest8.1char.exp
+  UnitTest8.1char.vcxproj -> D:\programyvanya\LAB8.1char\x64\Debug\UnitTest8.1char.dll
